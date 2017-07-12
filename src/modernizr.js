@@ -22,6 +22,7 @@
  * of control over the experience.
 */
 
+/* eslint eqeqeq: "off", no-shadow-restricted-names: "off", no-new-wrappers: "off" */
 function build (window, document, undefined) {
   var tests = [];
   
